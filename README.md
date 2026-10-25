@@ -1,7 +1,7 @@
 # model-Ai
-# 🧠 NexoraAI — Advanced AI System Architecture
+# 🧠 MarketAI — Advanced AI System Architecture
 
-NexoraAI is envisioned as a modular artificial intelligence ecosystem integrating multimodal inference, intelligent orchestration, retrieval-augmented generation (RAG), autonomous task workflows, computational acceleration, and scalable deployment infrastructure.
+MarketAI is envisioned as a modular artificial intelligence ecosystem integrating multimodal inference, intelligent orchestration, retrieval-augmented generation (RAG), autonomous task workflows, computational acceleration, and scalable deployment infrastructure.
 
 ## 🌐 Comprehensive AI Topology
 
